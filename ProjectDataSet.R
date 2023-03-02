@@ -1,0 +1,5 @@
+getwd()
+setwd("/Users/macbookair")
+data<-read.csv("/Users/macbookair/DataSet1.csv")
+setwd("/Users/macbookair/Desktop/Evolution/Tasks/Project")
+data<-read.csv("/Users/macbookair/Desktop/Evolution/Tasks/Project/DataSet1.csv")
